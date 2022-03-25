@@ -12,3 +12,10 @@ Running log of self-study
 - CS50 - Problem Set 7: 'Fiftyville' (wrote SQLite3 program to extract information from relational database)
 - CS50 - Watched lecture 8: html, CSS and JavaScript (With introduction to bootstrap framework)
 
+### 24
+- CS50 - Problem Set 8: 'Homepage' (Created Webapp using html, CSS, javascript which linked together 3 pages and used 'bootstrap' library 'accordion' function)
+- CS50 - Watched lecture 9: 'Flask' (Intro to templating with Flask)
+
+### 25
+- CS50 - Lab 9: 'Birthdays' (Created webapp with flask that took user input and entered it into table which was returned to user)
+- CS50 - Lecture 10: 'Emoji' (Overview of course learnings and guest lecture from Emoji designer) 
