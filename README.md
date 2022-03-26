@@ -19,3 +19,6 @@ Running log of self-study
 ### 25
 - CS50 - Lab 9: 'Birthdays' (Created webapp with flask that took user input and entered it into table which was returned to user)
 - CS50 - Lecture 10: 'Emoji' (Overview of course learnings and guest lecture from Emoji designer) 
+
+### 26
+- Attempted to refine understanding of git
