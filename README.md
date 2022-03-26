@@ -25,4 +25,4 @@ Running log of self-study
 - git - Learned how to force online repository to overwrite files on local machine with 
         git fetch --all 
         git resest --hard origin/main
-- Quick edit
+- practiced git (fetch, pull, commit, push, merging to main)
