@@ -26,3 +26,10 @@ Running log of self-study
         git fetch --all 
         git resest --hard origin/main
 - practiced git (fetch, pull, commit, push, merging to main)
+
+### 28 
+- Emailed recruiter Matt Pope at REED in response to Chemistry Lab researcher roles in Oxford
+- CS50 - Problem set 9: 'Finance' (Building web app that connects to IEX API and returns price quotes from their stock data,
+and simulates the buying and selling of stocks, updating databases that track the value of virtual portfolios) [NOT COMPLETED]
+- Pygame - began learning pygame module with tutorial (so far I have a template that generates a display field)
+- Updated github 
