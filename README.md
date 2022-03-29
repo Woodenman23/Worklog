@@ -33,3 +33,7 @@ Running log of self-study
 and simulates the buying and selling of stocks, updating databases that track the value of virtual portfolios) [NOT COMPLETED]
 - Pygame - began learning pygame module with tutorial (so far I have a template that generates a display field)
 - Updated github 
+
+### 29
+- Pygame - Followed along with snake game tutorial on Freecodecamp YouTube channel
+- CS50 - Made notes on final project
