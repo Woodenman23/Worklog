@@ -37,3 +37,15 @@ and simulates the buying and selling of stocks, updating databases that track th
 ### 29
 - Pygame - Followed along with snake game tutorial on Freecodecamp YouTube channel
 - CS50 - Made notes on final project
+
+## April
+### 1
+- Pygame - simple game that imported an image as a character and allowed user to move left, right and jump
+         - created novelty pong game with oscars theme
+### 2
+- Deep Learning with pytorch - tutorial 1,2 and 3: 
+        installing pytorch, syntax for tensors and tensor calculations, functionality for calculating gradients (Autograd)
+- Pygame - side scrolling functionality built into games
+- Github - uploading of projects from pc into repositories
+
+
