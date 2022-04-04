@@ -47,5 +47,3 @@ and simulates the buying and selling of stocks, updating databases that track th
         installing pytorch, syntax for tensors and tensor calculations, functionality for calculating gradients (Autograd)
 - Pygame - side scrolling functionality built into games
 - Github - uploading of projects from pc into repositories
-
-
