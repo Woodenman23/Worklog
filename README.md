@@ -47,3 +47,13 @@ and simulates the buying and selling of stocks, updating databases that track th
         installing pytorch, syntax for tensors and tensor calculations, functionality for calculating gradients (Autograd)
 - Pygame - side scrolling functionality built into games
 - Github - uploading of projects from pc into repositories
+### 3
+- Machine Learning - 'numpy stack for Machine Learning course' SECTION 1
+- CS50 - Chose project title, requirements, structure and created repository on Github
+- Github - Cloning repositories onto local machine
+- Google Colab - Created first notebook for notes on numpy course
+- Applied for IT consultancy job in UK
+### 4
+- Machine learning - 'numpy stack for Machine Learning course' SECTION 2
+- Emailed recruiter who contacted me about It consultancy job
+- Essence of Linear Algebra (Refresher) - lecture 1: Vectors
