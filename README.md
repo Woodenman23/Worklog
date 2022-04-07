@@ -54,6 +54,17 @@ and simulates the buying and selling of stocks, updating databases that track th
 - Google Colab - Created first notebook for notes on numpy course
 - Applied for IT consultancy job in UK
 ### 4
-- Machine learning - 'numpy stack for Machine Learning course' SECTION 2
+- Machine learning - 'deep learning prerequisites' SECTION 2 - Numpy
 - Emailed recruiter who contacted me about It consultancy job
 - Essence of Linear Algebra (Refresher) - lecture 1: Vectors
+### 5
+- Essence of Linear Algebra (Refresher) - lecture 2: Linear combinations, span and basis vectors
+- CS50 - 'final project' - wrote html scripts for layout, index using flask to link to app.py file, rendered structure using bootstrap and logo icon in tab
+### 6 
+- Essence of Linear Algebra (Refresher) - lecture 3: Linear Transformations and Matrices
+- Machine learning - 'deep learning prerequisites' SECTION 3 - matplotlib
+- CS50 - 'final project' - wrote html for login and register pages, building web forms that accept user data
+### 7
+- created AWS account, installed docker
+- Set up Amazon lightsail flask container and deployed; for future serving of flask apps
+- Py4e - APIs revision - Geocaching with googlemaps API
