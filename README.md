@@ -65,6 +65,13 @@ and simulates the buying and selling of stocks, updating databases that track th
 - Machine learning - 'deep learning prerequisites' SECTION 3 - matplotlib
 - CS50 - 'final project' - wrote html for login and register pages, building web forms that accept user data
 ### 7
-- created AWS account, installed docker
-- Set up Amazon lightsail flask container and deployed; for future serving of flask apps
+- created AWS account, installed docker, AWS CLI and lightsail
+- Amazon lightsail - attempted to build flask container to serve app. problems building a 'container'
 - Py4e - APIs revision - Geocaching with googlemaps API
+- Google Cloud Platfform - Created acoount, generated API key, used python script to geocode written addresses using geocoding API
+- Essence of Linear Algebra (Refresher) - lecture 4: Matrix Multiplication as Composition 
+### 8
+- Essence of Linear Algebra (Refresher) - lecture 5: 3D Linear Transformations
+- Essence of Linear Algebra (Refresher) - lecture 6: The Determinant
+- Machine learning - 'deep learning prerequisites' SECTION 4 - pandas
+- CS50 - 'final project' - wrote helpers.py (module with error functionto apply to app.py) - wrote error.html for error messages (would prefer them to appear on screen JS?) - SQL: CREATED users table - app.py: started login functionality that scans database for user info
