@@ -84,3 +84,11 @@ and simulates the buying and selling of stocks, updating databases that track th
 ### 11
 - Essence of Linear Algebra (Refresher) - lecture 8: Nonsquare Matrices as dimensional transformations 
 - Flask app with Python (Tech with Tim YouTube Tutorial) - Sqlalchemy used to generate databases and add user information to them from user input on registration forms (steep learning curve). Flask-login package used to alter UX based on whether or not user is logged in. 
+
+### 13-22 -- ON VACATION IN SOUTH PERU --
+
+### 19
+- Pygame - Started work on tic tac toe app to practice pygame skills
+
+### 20
+- Flask app with Python (Tech with Tim YouTube Tutorial) - Fixed bugs with login/logout system, allowed users to make text notes and store them on the website
