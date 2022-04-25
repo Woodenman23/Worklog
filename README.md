@@ -75,3 +75,23 @@ and simulates the buying and selling of stocks, updating databases that track th
 - Essence of Linear Algebra (Refresher) - lecture 6: The Determinant
 - Machine learning - 'deep learning prerequisites' SECTION 4 - pandas
 - CS50 - 'final project' - wrote helpers.py (module with error functionto apply to app.py) - wrote error.html for error messages (would prefer them to appear on screen JS?) - SQL: CREATED users table - app.py: started login functionality that scans database for user info
+
+### 10
+- Essence of Linear Algebra (Refresher) - lecture 7: Inverse Matrices, column space and null space
+- Flask app with Python (Tech with Tim YouTube Tutorial) - installing flask-login, sqlalchemy, html forms, organising functions into package containing: __init__.py, auth.py, views.py, static folder and html templates folder. Built out html files and forms for login, register functions. Coded error messages using flask-flash.
+- Yoga Sequencer desktop app - Using tkinter, build functions to randomly select poses from catagorised lists of poses and render a sequence of pose names on a window.
+
+### 11
+- Essence of Linear Algebra (Refresher) - lecture 8: Nonsquare Matrices as dimensional transformations 
+- Flask app with Python (Tech with Tim YouTube Tutorial) - Sqlalchemy used to generate databases and add user information to them from user input on registration forms (steep learning curve). Flask-login package used to alter UX based on whether or not user is logged in. 
+
+### 13-22 -- ON VACATION IN SOUTH PERU --
+
+### 19
+- Pygame - Started work on tic tac toe app to practice pygame skills
+
+### 20
+- Flask app with Python (Tech with Tim YouTube Tutorial) - Fixed bugs with login/logout system, allowed users to make text notes and store them on the website
+
+### 25
+- CS50 - 'final project' - Redesigned directory architecture for smoother functionality 
