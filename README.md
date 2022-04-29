@@ -105,16 +105,26 @@ and simulates the buying and selling of stocks, updating databases that track th
 ### 27
 - Elements of Programming interviews; read chapters 1-3
 - Python3 - Tic-Tac-Toe Tutorial - Command Line game using object oriented programming
+- Automate the Boring Stuff - Chapter 2: Flow control
+        - Boolean operators, if, elif, else, looping
 
 ### 28
 - Essence of LinAlg - Lecture 10 & 11; cross products
 - leetcode - Problems 1, 1678, 1436; followed tutorials on youtube
 - Elements of Programming interviews; read chapter 4
-- CS50AI - Lecture 1 - Knowledge Engineering for AI systems
-                - Inference, propositional logic: symbols and connectives
-                - models (with assigned truth values for each propositional symbol
-                - Knowledge Bases and entailment
-                - Model Checking and First order Logic algorithms
-                - Inference rules, Conjunctive Normal Form, Inference by Resolution
-                - Universal and Existential Quantification
-         - Quiz 1 (4/4)
+- CS50AI - Lecture 1:  Knowledge Engineering for AI systems
+        - Inference, propositional logic: symbols and connectives
+        - models (with assigned truth values for each propositional symbol
+        - Knowledge Bases and entailment
+        - Model Checking and First order Logic algorithms
+        - Inference rules, Conjunctive Normal Form, Inference by Resolution
+        - Universal and Existential Quantification
+- CS50AI - Quiz 1 (4/4)
+
+### 29
+- Automate the Boring Stuff - Chapter 3: Functions
+        - define, call, pass, argument, parameter
+        - return values & return statements, None value, 
+        - The call stack
+        - global and local variables, scope 
+        - Exception handling
