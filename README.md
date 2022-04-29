@@ -105,6 +105,8 @@ and simulates the buying and selling of stocks, updating databases that track th
 ### 27
 - Elements of Programming interviews; read chapters 1-3
 - Python3 - Tic-Tac-Toe Tutorial - Command Line game using object oriented programming
+- Automate the Boring Stuff - Chapter 2: Flow control
+        - Boolean operators, if, elif, else, looping
 
 ### 28
 - Essence of LinAlg - Lecture 10 & 11; cross products
