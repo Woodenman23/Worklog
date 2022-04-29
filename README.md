@@ -93,9 +93,11 @@ and simulates the buying and selling of stocks, updating databases that track th
 ### 20
 - Flask app with Python (Tech with Tim YouTube Tutorial) - Fixed bugs with login/logout system, allowed users to make text notes and store them on the website
 
+### 25
+- CS50 - 'final project' - Redesigned directory architecture for smoother functionality 
+
 ### 26
 - Flask - built personal website, included logo
         - reconfigured cs50 project into python package
         - learned how to run in debug mode with auto-updates to code
 - Git - learned 'git add --all' for adding new files before commit
-
