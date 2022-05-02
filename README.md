@@ -128,3 +128,15 @@ and simulates the buying and selling of stocks, updating databases that track th
         - The call stack
         - global and local variables, scope 
         - Exception handling
+
+## May
+
+### 2
+- Automate the Boring Stuff - Chapter 4 - Lists
+        - Indexing, negative indexes, slices
+        - concatanation, del, replacement of values
+        - Tuple unpacking, enumerate()
+        - methods: .append(), .insert(index, value), .remove(), sort(), .sort(reverse=True), .sort(key=str.lower), .reverse()
+        - memory management and the id() function
+        - copy module
+ - Python - mini project - Coin flips streaks - Write a program to find out how often a streak of six heads or a streak of six tails comes up in a randomly generated list of heads and tails.
