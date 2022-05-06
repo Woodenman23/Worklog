@@ -140,3 +140,17 @@ and simulates the buying and selling of stocks, updating databases that track th
         - memory management and the id() function
         - copy module
  - Python - mini project - Coin flips streaks - Write a program to find out how often a streak of six heads or a streak of six tails comes up in a randomly generated list of heads and tails.
+
+### 4 
+- Automate the Boring Stuff - Chapter 5 - Dictionaries
+        - key-value pairs
+        - methods: .keys() .values() .items() .get(key, placeholder), .set default(k,v)
+        - pprint.pprint()
+        - game modelling (Tic Tac Toe)
+        - Nested Dictionaries and lists
+- Researched FDM IT consulting firm
+
+### 5
+- Applied to Cambridge Consultants
+- Networking strategy conversation with contact in London
+- Essence of Linear Alg - Lecture 13 - Change of Basis
