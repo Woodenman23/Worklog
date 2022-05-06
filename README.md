@@ -154,3 +154,9 @@ and simulates the buying and selling of stocks, updating databases that track th
 - Applied to Cambridge Consultants
 - Networking strategy conversation with contact in London
 - Essence of Linear Alg - Lecture 13 - Change of Basis
+- Automate the Boring Stuff - Chapter 6 - Manipulating Strings
+        - Escape characters \', \", \t, \n, \\
+        - raw strings, multiline strs
+        - slicing, in/not in operators
+        - .upper(), .lower(), .startswith(), .endswith()
+        - .join(), .split(), .ljust(), .rjust(), .center()
