@@ -160,3 +160,8 @@ and simulates the buying and selling of stocks, updating databases that track th
         - slicing, in/not in operators
         - .upper(), .lower(), .startswith(), .endswith()
         - .join(), .split(), .ljust(), .rjust(), .center()
+
+## 6
+- Automate the Boring Stuff - Chapter 6 - Regex
+- Leetcode - problem 1 - Two Sum
+           - problem 9 - palindrome number
