@@ -165,3 +165,13 @@ and simulates the buying and selling of stocks, updating databases that track th
 - Automate the Boring Stuff - Chapter 6 - Regex
 - Leetcode - problem 1 - Two Sum
            - problem 9 - palindrome number
+
+## 7
+- Synchronisation of WebApp project with Github
+- Automate the Boring stuff - chapter 6 - input validation
+## 9
+- ML lecture on Machine learning basics
+- New study plan for month ahead
+
+## 10 
+- leet code - problem 14 - shortest common prefix
