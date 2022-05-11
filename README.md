@@ -175,3 +175,10 @@ and simulates the buying and selling of stocks, updating databases that track th
 
 ## 10 
 - leet code - problem 14 - shortest common prefix
+            - 13 - roman to integer
+            - 20 - valid parentheses
+
+## 11
+- leet code - problem 21 - merge two sorted lists
+            - problem 217 - contains duplicate
+            - 
