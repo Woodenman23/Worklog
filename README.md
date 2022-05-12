@@ -181,4 +181,6 @@ and simulates the buying and selling of stocks, updating databases that track th
 ## 11
 - leet code - problem 21 - merge two sorted lists
             - problem 217 - contains duplicate
-            - 
+            - 242 - valid anagram
+            - 125 - Valid Palindrome
+            - 121 - Best time to buy/sell stock
