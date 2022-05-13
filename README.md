@@ -184,3 +184,7 @@ and simulates the buying and selling of stocks, updating databases that track th
             - 242 - valid anagram
             - 125 - Valid Palindrome
             - 121 - Best time to buy/sell stock
+
+## 12 
+- leet code - problem 155 - min stack
+- yoga sequencer app - fixed issue with gui displaying {} around pose names      
