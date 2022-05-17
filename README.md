@@ -189,10 +189,18 @@ and simulates the buying and selling of stocks, updating databases that track th
 - leet code - problem 155 - min stack
 - yoga sequencer app - fixed issue with gui displaying {} around pose names      
 
-## 13
+## 14
 - leet code - reverse linked list
             - merge two linked lists
             - invert binary tree
             - max depth of binary tree
             - diameter of binary tree
-            
+
+## 16 
+- Yoga sequencer - Learned PIL, pillow
+                 - Loaded images into app
+                 - Attempted to program slideshow 
+
+## 17 
+- Tkinter tutorial code along 
+                - labels, entries, text display, functions, buttons
