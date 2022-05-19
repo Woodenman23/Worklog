@@ -204,3 +204,14 @@ and simulates the buying and selling of stocks, updating databases that track th
 ## 17 
 - Tkinter tutorial code along 
                 - labels, entries, text display, functions, buttons
+
+
+## 18
+- yoga sequencer
+        - built image sequencing function
+        - global variables, recursion, OOP
+
+## 19
+- yoga sequencer
+        - designed layout (buttons, image position, name position)
+        - designed POSE object 
