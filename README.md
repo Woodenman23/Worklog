@@ -215,3 +215,7 @@ and simulates the buying and selling of stocks, updating databases that track th
 - yoga sequencer
         - designed layout (buttons, image position, name position)
         - designed POSE object 
+
+## 20 
+- leetcode
+        - revision of all easy problems on neetcode.io
