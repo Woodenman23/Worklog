@@ -219,3 +219,9 @@ and simulates the buying and selling of stocks, updating databases that track th
 ## 20 
 - leetcode
         - revision of all easy problems on neetcode.io
+
+## 22
+- leetcode
+        - 70: climbing stairs problem
+- wrote all python list and string methods onto index cards
+- researched job descriptions and requirements for Software Developer
