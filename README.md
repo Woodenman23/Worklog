@@ -225,3 +225,19 @@ and simulates the buying and selling of stocks, updating databases that track th
         - 70: climbing stairs problem
 - wrote all python list and string methods onto index cards
 - researched job descriptions and requirements for Software Developer
+
+## 27
+- leetcode
+        - practiced 10 easy problems to practice what id learned in previous weeks
+
+## 28
+- Wrote index cards for all methods for lists and strings in python
+
+
+## 29
+- yoga sequencer app: 
+        - linked photos to names in dictionary and wrote sequence to display random sequence of photos wiht names
+## 30
+- leetcode 
+        - medium level problems 
+        - problem 3, twosumII, roman to integer
