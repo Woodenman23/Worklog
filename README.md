@@ -241,3 +241,14 @@ and simulates the buying and selling of stocks, updating databases that track th
 - leetcode 
         - medium level problems 
         - problem 3, twosumII, roman to integer
+## June
+
+## 2 
+- My Birthday - Camping and smores in California
+
+## 4
+- Tech with Tim video about soft skills in programming
+        - Domain Knowledge
+        - Software expertise (github, VS code, key bindings, efficiency etc)
+        - Debugging
+        - Clean, readable code with a consistent style
