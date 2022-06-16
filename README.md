@@ -260,4 +260,12 @@ and simulates the buying and selling of stocks, updating databases that track th
         - Completed Yoga Sequencer app
 
 # 16 
-- C++ - installed MinGW compiler and configured for use with VS code
+- C++ 
+        - installed MinGW compiler and configured for use with VS code
+        - Read basics documentation on Tutorialspoint.com (data types, building and running exes, comments)
+        - code along with first hour of Giraffe academy tutorial (printing strings, inputing vars into output strings, string functions)
+
+- leetcode     
+        - problem 3, longest substring 
+        - search a 2d matrix
+        
