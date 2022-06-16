@@ -252,3 +252,12 @@ and simulates the buying and selling of stocks, updating databases that track th
         - Software expertise (github, VS code, key bindings, efficiency etc)
         - Debugging
         - Clean, readable code with a consistent style
+
+## 4-15 
+- Roadtrip through Northern California and Central Oregon 
+        - Leetcode practice using website and Elements of Programming interviews book
+        - Created index cards of python programming concepts
+        - Completed Yoga Sequencer app
+
+# 16 
+- C++ - installed MinGW compiler and configured for use with VS code
