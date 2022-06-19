@@ -268,4 +268,15 @@ and simulates the buying and selling of stocks, updating databases that track th
 - leetcode     
         - problem 3, longest substring 
         - search a 2d matrix
-        
+# 17
+- python 
+        - HANGMAN command line game, built from scratch to practice python basics
+
+# 18
+- aws 
+        - serving flask apps using amazon lightsail and docker
+        - building and testing docker image of flask app
+        - creating lightsail container
+        - serving "hello world" app to public internet
+ - leetcode 
+        - subtree of another tree (binary tree problem solved using recursive algorithm)
