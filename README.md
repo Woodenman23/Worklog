@@ -280,3 +280,7 @@ and simulates the buying and selling of stocks, updating databases that track th
         - serving "hello world" app to public internet
  - leetcode 
         - subtree of another tree (binary tree problem solved using recursive algorithm)
+
+# 19
+- python
+        - helper program to draw hangman "man" in hangman app
