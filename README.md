@@ -284,3 +284,9 @@ and simulates the buying and selling of stocks, updating databases that track th
 # 19
 - python
         - helper program to draw hangman "man" in hangman app
+
+# 20 
+- Graphics Programming
+        - Learning Modern 3D Graphics Programming by Jason L. McKesson
+- leetcode
+        - revision of basic tree algorithms
