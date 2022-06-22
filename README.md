@@ -301,3 +301,11 @@ and simulates the buying and selling of stocks, updating databases that track th
         - made excel of all jobs applied for and their contact information
 - Elements of Programming interviews in python (book) 
         - read chapter 9 - binary trees
+
+# 22
+- Leetcode (revision)
+        - invert binary tree
+        - Maximum Depth of Binary Tree	
+	- Diameter of a Binary Tree
+- job applications
+        - 2 more graduate developer positions in UK
