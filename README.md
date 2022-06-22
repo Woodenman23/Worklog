@@ -290,3 +290,14 @@ and simulates the buying and selling of stocks, updating databases that track th
         - Learning Modern 3D Graphics Programming by Jason L. McKesson
 - leetcode
         - revision of basic tree algorithms
+
+# 21
+- Leetcode
+        - invert binary tree
+        - Maximum Depth of Binary Tree	
+	- Diameter of a Binary Tree	
+
+- job search 
+        - made excel of all jobs applied for and their contact information
+- Elements of Programming interviews in python (book) 
+        - read chapter 9 - binary trees
