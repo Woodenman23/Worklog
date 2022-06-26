@@ -301,3 +301,9 @@ and simulates the buying and selling of stocks, updating databases that track th
         - made excel of all jobs applied for and their contact information
 - Elements of Programming interviews in python (book) 
         - read chapter 9 - binary trees
+# 25
+- python 
+	- built rock, paper, scissors program
+
+- Job Applications
+	- Applied for 6 junior software dev jobs 
