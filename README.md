@@ -307,3 +307,11 @@ and simulates the buying and selling of stocks, updating databases that track th
 
 - Job Applications
 	- Applied for 6 junior software dev jobs 
+# 27
+- python
+	- learned bitwise manipulation in python, including bitwise operators
+- Flask development
+	- inched closer to putting website into a launchable dockerfile
+	- began writing content for personal website
+	- fixed debug mode so that i can edit html while running the app on browser
+	
