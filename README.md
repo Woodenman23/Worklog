@@ -314,4 +314,19 @@ and simulates the buying and selling of stocks, updating databases that track th
 	- inched closer to putting website into a launchable dockerfile
 	- began writing content for personal website
 	- fixed debug mode so that i can edit html while running the app on browser
+
+# 30
+- Flask Web App
+	- Put app into docker image
+	- deployed image in AWS lightsail container
+	- PUBLISHED webApp using AWS lightsail!!
+
+## July
+
+# 1
+- Python
+	- Followed Free code camp's Tic Tac Toe tutorial 
+	- Used OOP to design human and computer player classes
+	- practiced list comprehension (pythonic coding)
+	- learned to use "enumerate" function
 	
