@@ -330,3 +330,18 @@ and simulates the buying and selling of stocks, updating databases that track th
 	- practiced list comprehension (pythonic coding)
 	- learned to use "enumerate" function
 	
+# 3
+- Data Structures
+	- Arrays, efficient to touch last entries
+	- Strings
+	- Stacks and Queues
+	- Linked Lists, reversing
+	- Binary Trees
+	- Binary Search Trees
+	- Heaps
+	- Graphs
+	
+- Bit Manipulation
+	- %,|,^,>>,<<
+	- masking, changing individual bits
+	
