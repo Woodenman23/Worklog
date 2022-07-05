@@ -345,3 +345,15 @@ and simulates the buying and selling of stocks, updating databases that track th
 	- %,|,^,>>,<<
 	- masking, changing individual bits
 	
+# 4
+- Job applications
+	- Applied for 7 more graduate job
+	- completed coding assessment for testing role
+- Personal Website Project
+	- learned loads about bootstrap grids
+	- redesigned gallery page, putting nice spacing between pictures
+- DS and Algos
+	- revised linked lists
+	- learned to model linked lists with python
+	- revised hashmaps
+	
