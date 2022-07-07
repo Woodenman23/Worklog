@@ -357,3 +357,10 @@ and simulates the buying and selling of stocks, updating databases that track th
 	- learned to model linked lists with python
 	- revised hashmaps
 	
+# 6
+- Git hub
+        - Neated up GIT repositories and cloned all repositories onto local machine.
+- PersonalSite       
+        - Researched methods by which to build a game that can be run on my personal website
+        - put source code on github
+        
