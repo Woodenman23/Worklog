@@ -363,4 +363,11 @@ and simulates the buying and selling of stocks, updating databases that track th
 - PersonalSite       
         - Researched methods by which to build a game that can be run on my personal website
         - put source code on github
+# 8
+- Leetcode 
+	- Three-sum (finding subarrays of len 3 that sum to 0)
+	- Reorder List (thread largest values from sorted linked list between sublist of smallest values)
+		[1,2,3,4,5] -> [1,5,2,4,3] etc
+	
+	
         
