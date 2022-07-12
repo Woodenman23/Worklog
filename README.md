@@ -369,5 +369,7 @@ and simulates the buying and selling of stocks, updating databases that track th
 	- Reorder List (thread largest values from sorted linked list between sublist of smallest values)
 		[1,2,3,4,5] -> [1,5,2,4,3] etc
 	
-	
+# 11
+- leetcode
+	- koko eating bananas
         
